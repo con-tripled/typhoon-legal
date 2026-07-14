@@ -9,9 +9,9 @@
 # Typhoon bot Privacy Policy
 ```/ai``` **command**
 - Typhoon remembers your conversation across all channels where you use the ```/ai``` command, allowing you to build on previous points or ask follow-up questions anywhere.
-- You can clarify or change a point you made earlier in the conversation, and Typhoon will adapt its future replies based on that updated information.
+- You can clarify or change a point you made earlier in the conversation, & Typhoon will adapt its future replies based on that updated information.
 - We store the last 20 messages in temporary, volatile RAM to keep the conversation flowing. This memory is cleared automatically if the bot restarts or if your conversation exceeds the limit.
-- Your messages are sent to the [Groq](https://groq.com) API to generate responses using Meta's Llama 3 model (specifically llama-3.3-70b-versatile). We do not save your chat history to a permanent database, and your data is not used to train AI models.
+- Your messages are sent to the [Groq](https://groq.com) API to generate responses using Meta's Llama 3 model (specifically ```llama-3.3-70b-versatile```). We do not save your chat history to a permanent database, & your data is not used to train AI models.
 - Please do not share sensitive or private information (such as passwords or home addresses) with the bot.
 
 ### By continuing to use Typhoon, you agree to the terms of this privacy policy.
